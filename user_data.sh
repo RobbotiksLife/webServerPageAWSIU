@@ -87,4 +87,3 @@ echo "<!DOCTYPE html>
 </html>" | sudo tee /var/www/html/index.html
 sudo systemctl start httpd
 sudo systemctl enable httpd
-

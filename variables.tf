@@ -62,3 +62,13 @@ variable "subnets_cidr_bits_difference" {
   type = number
   default = 4
 }
+
+variable "server_asg_estimated_instance_warmup" {
+  type = number
+  default = 300
+}
+
+variable "server_asg_cpu_utilization_scaling_policy_target_value" {
+  type = number
+  default = 70.0
+}

@@ -20,5 +20,7 @@ aws_launch_template_user_data_sh_path="user_data.sh"
 aws_autoscaling_group_max_size = 4
 aws_autoscaling_group_min_size = 2
 aws_autoscaling_group_desired_capacity = 2
+server_asg_estimated_instance_warmup = 300
+server_asg_cpu_utilization_scaling_policy_target_value = 70.0
 
 
