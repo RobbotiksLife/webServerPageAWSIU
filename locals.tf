@@ -7,4 +7,3 @@ locals {
   tcp_protocol_str = "tcp"
   allow_all_cidr = "0.0.0.0/0"
 }
-

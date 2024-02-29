@@ -1,4 +1,3 @@
-
 # Defining security group for HTTP and SSH
 resource "aws_security_group" "web" {
   name = "${var.project_name}-SG-1"
