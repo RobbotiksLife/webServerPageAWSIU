@@ -59,8 +59,5 @@ To avoid incurring unnecessary charges, remember to destroy the resources create
 - **Monitoring and Scaling**: Monitor the application's performance and scale resources as needed using AWS services such as CloudWatch and Auto Scaling.
 - **Security**: Regularly review and update security groups and access controls to ensure the infrastructure remains secure.
 
-## Contributors
-- Volodymyr Bezpalko
-
-## License
-This project is licensed under the [MIT License](LICENSE).
+## Author
+This Code was created by Volodymyr Bezpalko.
